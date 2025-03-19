@@ -1,0 +1,8 @@
+LIBRARY
+
+EXPORTS
+	AICodec_GetLastError
+
+	AICodec_AudioTText_Init
+	AICodec_AudioTText_ConvertFile
+	AICodec_AudioTText_Close
