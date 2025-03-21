@@ -59,3 +59,7 @@ XEngine_Release目录有模块,自己编译API模块后把这个目录的模块�
 ## 提交问题
 
 如果你有问题,可以在issues中提交
+
+## 版权信息
+由于模块依赖其他第三方库模块,每个三方库模块版权信息可能不同,请参照第三方库模块版权  
+1. [whisper.cpp](https://github.com/ggerganov/whisper.cpp)

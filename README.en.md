@@ -59,3 +59,7 @@ If you think this software is helpful to you, please give us a START
 ## post issues
 
 if you have eny quest.post issues...
+
+## Acknowledgements
+Since the module relies on other third-party library modules, the copyright information of each third-party library module may be different. Please refer to the copyright of the third-party library module.
+1. [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
